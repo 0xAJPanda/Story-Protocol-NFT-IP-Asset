@@ -1,4 +1,4 @@
-<h2 align=center>Register a NFT as an IP asset on Story Protocol</h2>
+<h2 align=center>Register a NFT as an IP asset on Story Protocol By Telecom Aka AJPanda</h2>
 
 ## Info
 
